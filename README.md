@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hussain</h1>
-<h3 align="center">MERN Stack Developer | Team Lead</h3>
+<h3 align="center">MERN Stack Developer | Team Lead @ Vordx Technologies</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hussain-abdullah-0a35a928a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -111,20 +111,11 @@ I'm a **MERN Stack Developer and Team Lead** with **3+ years of experience** des
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hussain3372&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussain3372&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hussain3372&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hussain3372&theme=tokyo-night&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hussain3372&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
